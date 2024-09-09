@@ -369,7 +369,7 @@ function SingleNavItem({ label, link, iconImage, closeSideMenu, children }: Sing
               link={child.link}
               iconImage={child.iconImage}
               closeSideMenu={closeSideMenu}
-              children={child.children}
+            // children={child.children}
             />
           ))}
         </div>

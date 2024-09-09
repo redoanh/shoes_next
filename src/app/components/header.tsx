@@ -36,7 +36,7 @@ const TopHeader = () => {
                 <li><a href="javascript:void(0)" className="text-white">Gift Cards</a></li>
                 <li><a href="javascript:void(0)" className="text-white">Notifications</a></li>
                 <li><a href="javascript:void(0)" className="text-white">Help & Contact</a></li>
-                <li><a href="javascript:void(0)" className="text-white">Today's Deal</a></li>
+                <li><a href="javascript:void(0)" className="text-white">Todays Deal</a></li>
                 <li><a href="javascript:void(0)" className="text-white">Track Order</a></li>
                 <li><a href="javascript:void(0)" className="text-white">Shipping</a></li>
                 <li><a href="javascript:void(0)" className="text-white">Easy Returns</a></li>
